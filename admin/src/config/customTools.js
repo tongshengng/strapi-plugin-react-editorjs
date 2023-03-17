@@ -8,6 +8,7 @@ import Quote from "@editorjs/quote";
 import Marker from "@editorjs/marker";
 import CheckList from "@editorjs/checklist";
 import Delimiter from "@editorjs/delimiter";
+import InlineCode from "@editorjs/inline-code";
 
 class Button {
   static get toolbox() {
